@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran</h1>
 <h3 align="center">Spending time on coding</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdimranreza-cyber" alt="mdimranreza-cyber" /></a> </p>
+
 
 - 🌱 I’m currently learning **DSA**
 
